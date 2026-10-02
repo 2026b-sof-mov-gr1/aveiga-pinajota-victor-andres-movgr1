@@ -23,3 +23,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "vaap2026bmovgr1"
+include(":app")
