@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321653756477",
+    "project_id": "vaap2026bmovgr",
+    "storage_bucket": "vaap2026bmovgr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321653756477:android:270590370b49df46455054",
+        "android_client_info": {
+          "package_name": "com.example.vaap2026bmovgr1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtlwu-yFIecDuhm9rSvtStjYHBijtKbE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
